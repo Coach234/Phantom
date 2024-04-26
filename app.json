@@ -1,7 +1,7 @@
 {
-  "name": "keith-md@1.2.8",
-  "description": "I am Keith-Md Whatsapp'bot deadly😂'Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@keithkeizzah?si=PviuOaZQHHvAjpxH",
-  "logo": "https://telegra.ph/file/53fbc6bbfff88fd1d621b.jpg",
+  "name": "Phantom-md@1.2.8",
+  "description": "I am Phantom-Md Whatsapp'bot deadly😂'Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@keithkeizzah?si=PviuOaZQHHvAjpxH",
+  "logo": "https://telegra.ph/file/fb78e9242e7d304608467.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "༆𝐊𝐄𝐈𝐓𝐇 𝐓𝐄𝐂𝐇༒",
+      "value": "༆PHANTOM HACKER༒",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐌𝐃"
+      "value": "PHANTOM-𝐌𝐃"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/24893b7355f6ee0312230.jpg"
+      "value": "https://telegra.ph/file/fb78e9242e7d304608467.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Africa/Nairobi"
+      "value": "Africa/Lagos"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -96,11 +96,11 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
-      "value": "."
+      "value": "⚡"
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254748387615"
+      "value": "2348108395270"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
+      "value": "PHANTOM-HACKER",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝐊𝐄𝐈𝐓𝐇-𝐓𝐄𝐂𝐇",
+      "value": "PHANTOM-HACKER",
       "required": false 
     }
   }, 
